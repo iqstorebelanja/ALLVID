@@ -1,0 +1,6 @@
+{
+  "name": "ALLVID",
+  "description": "All-in-One Downloader for 20+ platforms with 4K/1080p/MP3, smart auto-detect, and batch downloading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
